@@ -1,0 +1,3 @@
+Files that can be deleted after English-only conversion:
+- components/LanguageContext.tsx (no longer needed)
+- components/LanguageSelectionPage.tsx (no longer needed)
