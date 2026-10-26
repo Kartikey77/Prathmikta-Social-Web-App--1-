@@ -1,7 +1,8 @@
 
   # Prathmikta Social Web App
 
-  This is a code bundle for Prathmikta Social Web App. The original project is available at https://www.figma.com/design/ZP5KVibcRCcIcnWtzYUD35/Prathmikta-Social-Web-App.
+  This is a code bundle for Prathmikta Social Web App. The original project is available at 
+  LINK(https://prathmikta.vercel.app/)
 
   ## Running the code
 
